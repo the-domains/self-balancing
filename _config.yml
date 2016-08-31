@@ -1,19 +1,4 @@
-name: Self-balancing
-favicon: null
-layout_spectrum: 0.8376217999029905
 typography_spectrum: 0.24270647205412388
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.926828371360898
   saturation: 0.6057212415616959
   rhythmicContrast: 0.2583924059290439
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8376217999029905
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Skylar
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'luxury tech '
 purpose: []
